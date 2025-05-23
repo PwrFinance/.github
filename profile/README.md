@@ -19,6 +19,7 @@ The **Power Protocol** (`power`) is Static Finance's synthetic dollar system, ba
 
 - [Website](https://staticfinance.com/)  
 - [Twitter](https://x.com/pwrfinance)
+- [LinkedIn](https://www.linkedin.com/company/static-finance/)
 - [Discord (coming soon)](#) 
 - [Documentation (coming soon)](#)   
 
