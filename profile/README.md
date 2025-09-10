@@ -9,8 +9,8 @@
 - [Twitter](https://x.com/pwrfinance)
 - [LinkedIn](https://www.linkedin.com/company/pwrfinance/)
 - [Email](mailto:hello@powerfinance.io)
-- [Discord (coming soon)](#)   
-- [Documentation (coming soon)](#)   
+- Discord (coming soon)
+- Documentation (coming soon)
 
 
 ### License
