@@ -5,13 +5,13 @@
 
 ### Community & Resources
 
-- [Website](https://powerfinance.io/)  
+- [Website](https://powerfinance.io/)
+- [Documentation](https://docs.powerfinance.io/)
+- [FAQ](https://powerfinance.io/faq/)
 - [Twitter](https://x.com/pwrfinance)
 - [Telegram](https://t.me/+pcFfXVAIwNgxMmVh)
 - [LinkedIn](https://www.linkedin.com/company/pwrfinance/)
 - [Email](mailto:hello@powerfinance.io)
-- [Documentation](https://docs.powerfinance.io/)
-- [FAQ](https://powerfinance.io/faq/)
 - Discord (coming soon)
 
 
